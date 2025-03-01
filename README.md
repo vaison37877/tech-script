@@ -1,8 +1,8 @@
 Desarrollo de un Aplicativo Web para Tech-Script: 
 Diplomados Virtuales y Formación de Personalidades Profesionales
 
-integrantes: John Vaison Ortiz Usma
-             Maithe Lopez Cardona
+integrantes: John Vaison Ortiz Usma,
+             Maithe Lopez Cardona,
              Hernando Antonio Manco Carreño
 
 DESCRIPCION DEL PROYECTO: 
